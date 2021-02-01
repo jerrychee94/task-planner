@@ -1,0 +1,12 @@
+@charset "utf-8";
+// Fonts
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+
+@import 'variables';
+@import "~bulma";
+@import "~buefy/src/scss/buefy";
+@import "components/_steps";
+@import "components/_image-picker";
+@import "components/_sidebar";
+
+@import "~vue-phone-number-input/dist/vue-phone-number-input.css";

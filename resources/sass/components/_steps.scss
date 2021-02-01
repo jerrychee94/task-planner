@@ -1,0 +1,7 @@
+.b-steps {
+    &.is-hidden-nav {
+        > nav {
+            display: none;
+        }
+    }
+}

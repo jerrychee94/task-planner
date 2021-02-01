@@ -1,0 +1,14 @@
+// auth.js
+export const LOGOUT = 'LOGOUT'
+export const SAVE_TOKEN = 'SAVE_TOKEN'
+export const SAVE_INTENDED = 'SAVE_INTENDED'
+export const SAVE_VERIFY_INTENDED = 'SAVE_VERIFY_INTENDED'
+export const RESET_INTENDED = 'RESET_INTENDED'
+export const RESET_VERIFY_INTENDED = 'RESET_VERIFY_INTENDED'
+export const FETCH_USER = 'FETCH_USER'
+export const FETCH_USER_SUCCESS = 'FETCH_USER_SUCCESS'
+export const FETCH_USER_FAILURE = 'FETCH_USER_FAILURE'
+export const UPDATE_USER = 'UPDATE_USER'
+
+// lang.js
+export const SET_LOCALE = 'SET_LOCALE'
